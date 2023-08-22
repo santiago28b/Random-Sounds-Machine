@@ -1,0 +1,22 @@
+body{
+    
+    border: solid blue 10px;
+    background-color: blanchedalmond;
+}
+
+
+
+    
+}
+.btn-group{
+   margin: 0px;
+}
+
+#display{
+    background-color: darkcyan;
+    font-family: 'Rancho';
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+   
+}
